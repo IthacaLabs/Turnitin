@@ -4,7 +4,7 @@ HTML Injection attack
 Type: Authenticated Remote attack
 
 
-We have identified that the "Submission Web Form" of Turnitin LTI tool/plugin, which is used by third parties such as universities is affected by HTML Injection attacks.The security issue affects the submission web form where the students submit their reports for similarity/plagiarism checks.By leveraging this issue, an attacker is able to cause arbitrary HTML code to be executed in a user's browser within the security context of the affected site. An attacker can trick the victim into clicking on a malicious link, thus redirecting them to a malicious website (Social Engineering attacks). Also, an attacker can cause the victim user to carry out an unintentionally authenticated action (CSRF attacks).
+We have identified that the "Submission Web Form" of Turnitin LTI tool/plugin version 1.2, which is used by third parties such as universities is affected by HTML Injection attacks.The security issue affects the submission web form where the students submit their reports for similarity/plagiarism checks.By leveraging this issue, an attacker is able to cause arbitrary HTML code to be executed in a user's browser within the security context of the affected site. An attacker can trick the victim into clicking on a malicious link, thus redirecting them to a malicious website (Social Engineering attacks). Also, an attacker can cause the victim user to carry out an unintentionally authenticated action (CSRF attacks).
 
 Sensitive information values have been replaced with random ones for confidentiality issues.
 
