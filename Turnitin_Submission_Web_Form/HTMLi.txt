@@ -1,5 +1,5 @@
-HTML Injection attack
-
+Turnitin LTI Version 1.3 - HTML Injection - CVE-2023-34831
+-----------------------------------------------------------
 
 Type: Authenticated Remote attack
 
